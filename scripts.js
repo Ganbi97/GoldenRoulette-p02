@@ -1,5 +1,5 @@
 // Config
-const WHATSAPP = '5492235583678';
+const WHATSAPP = '5492235577516';
 const IFRAME_URLS = {
   regalamonedas: 'https://www.regalamonedas.lat',
   ganaencasa: 'https://www.ganaencasa24.com',
